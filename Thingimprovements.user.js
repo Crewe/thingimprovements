@@ -2,6 +2,7 @@
 // @name         Thingimprovements
 // @namespace    https://github.com/Crewe/
 // @version      0.1
+// @updateURL    https://github.com/Crewe/thingimprovements/raw/master/Thingimprovements.user.js
 // @description  Stop Thingiverse from CONSTANTLY openning new tabs.
 //               as well as make the scroll 3-column.
 // @author       Ryan Edwards-Crewe
